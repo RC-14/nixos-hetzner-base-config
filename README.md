@@ -1,4 +1,4 @@
-# nixos-hetzner-template
+# nixos-hetzner-base-config
 A template configuration for using nixos on hetzner cloud.
 Don't expect too much. I just put this here so that I know what I did if I ever need to repeat it.
 
